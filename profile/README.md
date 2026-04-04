@@ -1,4 +1,4 @@
-# Seixas group
+# Seixas research
 
 <div align="center">
 <table>
