@@ -35,7 +35,7 @@
       </td>
       <td>For the investigation of alloys</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td align="center" width="400">
         <a href="https://github.com/seixas-research/poraque">
         <picture>
@@ -46,7 +46,7 @@
         </a>
       </td>
       <td>For electronic structure calculations</td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 </div>
