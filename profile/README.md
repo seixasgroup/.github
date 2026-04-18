@@ -13,11 +13,11 @@
   <tbody>
     <tr>
       <td align="center" width="400">
-        <a href="https://github.com/seixasgroup/carcara">
+        <a href="https://github.com/seixas-research/carcara">
         <picture>
-          <source srcset="https://raw.githubusercontent.com/seixasgroup/carcara/refs/heads/main/logo/logo_dark.png" media="(prefers-color-scheme: dark)">
-          <source srcset="https://raw.githubusercontent.com/seixasgroup/carcara/refs/heads/main/logo/logo_light.png" media="(prefers-color-scheme: light)">
-          <img src="https://raw.githubusercontent.com/seixasgroup/carcara/refs/heads/main/logo/logo_light.png" alt="Carcará logo" style="height: 100px; width: auto;">
+          <source srcset="https://raw.githubusercontent.com/seixas-research/carcara/refs/heads/main/logo/logo_dark.png" media="(prefers-color-scheme: dark)">
+          <source srcset="https://raw.githubusercontent.com/seixas-research/carcara/refs/heads/main/logo/logo_light.png" media="(prefers-color-scheme: light)">
+          <img src="https://raw.githubusercontent.com/seixas-research/carcara/refs/heads/main/logo/logo_light.png" alt="Carcará logo" style="height: 100px; width: auto;">
         </picture>
         </a>
       </td>
@@ -25,11 +25,11 @@
     </tr>
     <tr>
       <td align="center" width="400">
-        <a href="https://github.com/seixasgroup/oncapintada">
+        <a href="https://github.com/seixas-research/oncapintada">
         <picture>
-          <source srcset="https://raw.githubusercontent.com/seixasgroup/oncapintada/refs/heads/main/logo/logo_dark.png" media="(prefers-color-scheme: dark)">
-          <source srcset="https://raw.githubusercontent.com/seixasgroup/oncapintada/refs/heads/main/logo/logo_light.png" media="(prefers-color-scheme: light)">
-          <img src="https://raw.githubusercontent.com/seixasgroup/oncapintada/refs/heads/main/logo/logo_light.png" alt="Onça-pintada logo" style="height: 100px; width: auto;">
+          <source srcset="https://raw.githubusercontent.com/seixas-research/oncapintada/refs/heads/main/logo/logo_dark.png" media="(prefers-color-scheme: dark)">
+          <source srcset="https://raw.githubusercontent.com/seixas-research/oncapintada/refs/heads/main/logo/logo_light.png" media="(prefers-color-scheme: light)">
+          <img src="https://raw.githubusercontent.com/seixas-research/oncapintada/refs/heads/main/logo/logo_light.png" alt="Onça-pintada logo" style="height: 100px; width: auto;">
         </picture>
         </a>
       </td>
@@ -37,11 +37,11 @@
     </tr>
     <tr>
       <td align="center" width="400">
-        <a href="https://github.com/seixasgroup/poraque">
+        <a href="https://github.com/seixas-research/poraque">
         <picture>
-          <source srcset="https://raw.githubusercontent.com/seixasgroup/poraque/refs/heads/main/logo/logo_dark.png" media="(prefers-color-scheme: dark)">
-          <source srcset="https://raw.githubusercontent.com/seixasgroup/poraque/refs/heads/main/logo/logo_light.png" media="(prefers-color-scheme: light)">
-          <img src="https://raw.githubusercontent.com/seixasgroup/poraque/refs/heads/main/logo/logo_light.png" alt="Poraquê logo" style="height: 100px; width: auto;">
+          <source srcset="https://raw.githubusercontent.com/seixas-research/poraque/refs/heads/main/logo/logo_dark.png" media="(prefers-color-scheme: dark)">
+          <source srcset="https://raw.githubusercontent.com/seixas-research/poraque/refs/heads/main/logo/logo_light.png" media="(prefers-color-scheme: light)">
+          <img src="https://raw.githubusercontent.com/seixas-research/poraque/refs/heads/main/logo/logo_light.png" alt="Poraquê logo" style="height: 100px; width: auto;">
         </picture>
         </a>
       </td>
